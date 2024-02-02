@@ -1,13 +1,12 @@
-## Your Name
+## Mohammad Hassan Azad
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
-
+I am a keen software developer with a background in professional sport and Chemical Engineering looking to break into the world of technology. Having learnt the basics of programming on my own to build solutions for a small business as a freelancer, I am enjoying learning to solve problems using Test Driven Development in an Agile environment at Makers Academy. I am excited to play my part in helping people pursue their passion effectively.
 ## Projects
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| **Contrast**            | An invoicing and inventory management web app for a small printing company | Flask, Python, HTML, CSS, SQLite |
+| **Finance** | A web app to trade on the stock market | Flask, Python, HTML, CSS, SQLite|
 
 ## Work Experience
 
