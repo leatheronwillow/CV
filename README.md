@@ -1,24 +1,69 @@
 ## Mohammad Hassan Azad
+I am a driven and compassionate software developer thoroughly enjoying the process of test-driven development in Agile teams at Makers Academy. Apart from strong coding fundamentals in object oriented programming, my main strength is an ability to empathise developed from my interactions with people from diverse backgrounds playing cricket around the world as a professional cricketer and coach. This empathy, coupled with a growth mindset and a sense of responsibility, makes me an excellent teammate and drives me to help clients pursue their passion through technology.
 
-I am a keen software developer with a background in professional sport and Chemical Engineering looking to break into the world of technology. Having learnt the basics of programming on my own to build solutions for a small business as a freelancer, I am enjoying learning to solve problems using Test Driven Development in an Agile environment at Makers Academy. I am excited to play my part in helping people pursue their passion effectively.
+**Technical Skills:** Python, C, SQL, HTML, CSS, Flask, Object Oriented Programming, Test Driven Development,  Full-Stack development, Agile Working, Empathy, Teamwork, Communication, Public Speaking, Leadership, Project Management, Operations Management, Mentoring, Coaching, Video Analysis.
 ## Projects
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Contrast**            | An invoicing and inventory management web app for a small printing company | Flask, Python, HTML, CSS, SQLite |
-| **Finance** | A web app to trade on the stock market | Flask, Python, HTML, CSS, SQLite|
+| **Contrast**            | A web app for accounting and supply chain management for a Contrast; a small printing business. As the business had no storage space of its own,  the key challenge was designing a relational database to link complex relationships between suppliers, contractors and clients and keeping track of the location of materials and products through the process.  | Flask, Python, HTML, Jenja, SQLite, CSS, Javascript|
+| **CS50 Finance** | A web app for trading stocks using an API to ensure stock prices are up to date and two-factor authentication to ensure data security. The app is designed to track transactions with additional functionality to add funds to a digital wallet.| Flask, Python, HTML, Jenja, SQLite, CSS, Javascript|
+| **CS50 Filter** | A command line program to apply different types of image filters to given images.| C|
 
-## Work Experience
+## Relevant Professional Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Makers** (Jan 2024 - Current)  
+_Junior Software Developer_
 
-- Any experience, including roles and responsibilities and results achived in bullet point format.
+- Identify user needs and build small command line programs to solve them using Python.
+- Integrate effective methodologies such as Test Driven Development (TDD), Object-oriented design (OOD), and discovery debugging  into coding practice to problem solve effectively.
+- Collaborate with peers in pair programming to design robust solutions for coding problems.
+- Enhance emotional intelligence by actively contributing to workshops in empathy and giving feedback. 
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Self-employed** (Oct 2023 - Dec 2023) 
+_Freelance Software Developer_
 
-- Any experience relevent to software development
+- Utilised Python to build a  Flask web app for Accounting and Inventory Management for a printing firm.
+- Delivered fully functional app written using Python, SQL, HTML, CSS and Jenja.
+- Liaised with client to create specifications for the product to align with company goals.
+- Produced tests in collaboration with client as well as providing training and ongoing support.
+
+**Moonah Concrete Works (Hanson Australia)** (Nov 2016 - Mar 2017) 
+_Freelance Software Developer_
+
+- Designed user friendly management tools using Visual Basic for Applications (VBA) on Microsoft Excel including a tool to process employee time logs to calculate and highlight patterns of overtime hours.
+- Designed a management tool to import data from SAP into a formatted monthly report saving time and button clicks. The tool was used across multiple states in Australia.
+- Documented the process including a detailed user manual and troubleshooting guide.
+- Assisted in particle size distribution analysis for specific aggregate mixtures.
+
+## Other Experience
+
+**Leicestershire CCC, Northamptonshire CCC** (Mar 2019 - Oct 2023)  
+_Professional Cricketer_
+
+- Highest Run Scorer in the County Championship for Leicestershire CCC during my time at the club.
+- Established  reputation for performing well in high pressure situations as opening batsman.
+- Actively participated in training on time management, financial planning and presentation skills.
+- Represented the club at events including speaking publicly at a multi faith dinner.
+- Spoke for ethnic minorities as a player representative in the Professional Cricketers Association Equality, Diversity and Inclusion group.
+
+**Ellerslie Cricket Club (Auckland, NZ)** (Oct 2019 - Mar 2020)  
+_Head Coach and Development Manager (Juniors)_
+
+- Organised and lead multi-skill cricket sessions for groups of up to fifty young children (U10s).
+- Supported volunteers in the management of running thirteen games simultaneously each Saturday.
+- Created engaging practice drills to encourage skill development in young players.
+- Trained coaches to run drills in accordance with health and safety protocols. 
+- Managed weekly barbecue event for parents including stock management, equipment maintenance and managing a roster of volunteers.
+
+**Ketton Cement Works (Hanson UK)** (Mar 2017 - Sept 2017)  
+_Process Engineering Intern_
+
+- Responsible for project on optimisation of process water used on site.
+- Reviewed and updated process flow diagrams (PFDs) for process water from source to end using AutoCAD.
+- Developed plan to mitigate the effects of an infestation of zebra mussels on process pipelines and machinery including liaising with contractors and operating within a fixed budget. 
+- Provided recommendations for an improved control strategy using portable ultra-sonic flow meters.
+
 
 ## Skills
 
