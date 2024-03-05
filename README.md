@@ -79,25 +79,22 @@ My role as a legal intern required scrutinising legal documents to identify poss
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+#### Harvard X CS50: Introduction to Computer Science (2022 - 2023)
+**Modules include:** Introduction to C, Arrays, Algorithms, Memory, Data Structures, Introduction to Python, SQL, Introduction to Html, CSS and JavaScript, Flask, Final Project. 
 
-#### Your University / College (start_date to end_date)
+#### Loughborough University (2014 to 2019)
+- MEng. (Hons) Chemical Engineering with Diploma in Industrial Studies (DIS).                                                    
+- First Class
+- **Relevant Skills:** Gained proficiency in using code-based engineering software including COMSOL, MATLAB, Maple and OriginLabs particularly for solving Ordinary Differential Equations for a process designed to produce artificial skin. 
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+#### Bilborough College, Nottingham (2011 - 2013)
+- **A-levels:** Mathematics (A*), Physics (A*) and Chemistry (A*) including 100% in final modules of all three subjects.
+- **AS-levels:** English Language (A), Further Mathematics (A).
 
-#### Any other qualifications
-
-That in some arguable way make you a better software developer or well-rounded person
-
-## Hobbies
-
-Any cool stuff that makes you a super part of a software development team
+## Achievements and Interests
+- Won British Petroleum Prize for Highest Overall Performance in second year of university.
+- 2nd highest mark in Final Year Group Design. 
+- Winner of Leicestershire County Cricket Club Fans Player of the Year, Players Player of the Year, County Championship Player of the Year and Best Individual Batting Performance Awards (2019).
+- Proud member of Loughborough Longshots, the university Quidditch team (now Quadball).
+- I am passionate about cooking and am currently experimenting with a  thermocouple to perfect the ultimate roast dinner!
+- I love sports and enjoy playing tennis, badminton, basketball and squash. 
