@@ -20,7 +20,7 @@ _Junior Software Developer_
 - Collaborate with peers in pair programming to design robust solutions for coding problems.
 - Enhance emotional intelligence by actively contributing to workshops in empathy and giving feedback. 
 
-**Self-employed** (Oct 2023 - Dec 2023) 
+**Self-employed** (Oct 2023 - Dec 2023)  
 _Freelance Software Developer_
 
 - Utilised Python to build a  Flask web app for Accounting and Inventory Management for a printing firm.
@@ -28,7 +28,7 @@ _Freelance Software Developer_
 - Liaised with client to create specifications for the product to align with company goals.
 - Produced tests in collaboration with client as well as providing training and ongoing support.
 
-**Moonah Concrete Works (Hanson Australia)** (Nov 2016 - Mar 2017) 
+**Moonah Concrete Works (Hanson Australia)** (Nov 2016 - Mar 2017)  
 _Freelance Software Developer_
 
 - Designed user friendly management tools using Visual Basic for Applications (VBA) on Microsoft Excel including a tool to process employee time logs to calculate and highlight patterns of overtime hours.
